@@ -6,7 +6,7 @@ CyberWisdom is a full-screen browser-based slideshow designed for the informatio
 
 Run it on a spare monitor, embed it on your website, use it as a screensaver — or just open it when you want a moment of security inspiration.
 
-**[→ Live Demo](https://your-username.github.io/cyberwisdom)**
+**[→ Live Demo](https://barigun.github.io/CyberWisdom)**
 
 ---
 
@@ -47,24 +47,24 @@ Run it on a spare monitor, embed it on your website, use it as a screensaver —
 3. Press `F` for fullscreen or `F11`
 
 ```bash
-git clone https://github.com/your-username/cyberwisdom.git
-cd cyberwisdom
+git clone https://github.com/barigun/CyberWisdom.git
+cd CyberWisdom
 open index.html   # macOS
 # or just drag index.html into your browser
 ```
 
 ### Deploy to GitHub Pages (free hosting)
 
-1. Fork this repository
-2. Go to **Settings → Pages**
-3. Set source to **Deploy from branch → main → / (root)**
-4. Your live URL will be `https://your-username.github.io/cyberwisdom`
+1. Go to your repo: **https://github.com/barigun/CyberWisdom**
+2. Click **Settings → Pages**
+3. Set source to **Deploy from branch → main → / (root)** → Save
+4. Your live URL will be `https://barigun.github.io/CyberWisdom`
 
 ### Embed on your website
 
 ```html
 <iframe 
-  src="https://your-username.github.io/cyberwisdom?autoplay=true" 
+  src="https://barigun.github.io/CyberWisdom" 
   style="width:100%; height:100vh; border:none;"
   allowfullscreen>
 </iframe>
