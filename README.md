@@ -53,13 +53,6 @@ open index.html   # macOS
 # or just drag index.html into your browser
 ```
 
-### Deploy to GitHub Pages (free hosting)
-
-1. Go to your repo: **https://github.com/barigun/CyberWisdom**
-2. Click **Settings → Pages**
-3. Set source to **Deploy from branch → main → / (root)** → Save
-4. Your live URL will be `https://barigun.github.io/CyberWisdom`
-
 ### Embed on your website
 
 ```html
