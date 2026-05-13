@@ -113,7 +113,7 @@ Edit the `CARDS` array in `index.html`. Each card is a JavaScript object:
 ## Roadmap
 
 - [ ] `content.json` external content file (easier editing without touching JS)
-- [ ] AI-powered card generation via Anthropic API
+- [ ] AI-powered card generation
 - [ ] URL params: `?interval=20&category=principle&shuffle=true`
 - [ ] Local image support (for offline / conference use)
 - [ ] PWA manifest (installable as desktop/mobile app)
